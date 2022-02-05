@@ -38,9 +38,54 @@ Final grade will be determined from four types of required exercises:
 *   One grade will be based on a [_one-hour presidential debate_]({{< baseurl >}}/pages/assignments#One-hourPresidentialDebate). Students will prepare a political platform that they will advocate in a first-round presidential debate.
 *   Other elements will be taken into account for the final grade: 1. attendance, 2. the demonstration that the students have done the readings, 3. the quality of their oral output.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| One ten-minute speech | 20% |
-| Three historical notes | 30% |
-| Six-page political statement | 40% |
-| One-hour presidential debate | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One ten-minute speech
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three historical notes
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Six-page political statement
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-hour presidential debate
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
